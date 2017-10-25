@@ -23,8 +23,8 @@
 
 <div>
 	<div class="btnDiv">
-		<button class="layui-btn" type="button" id="singleChoice">单个添加车位121</button>
-	    <button class="layui-btn" type="button" id="batchChoice">批量添加车位</button>
+		<button class="layui-btn" type="button" id="singleChoice">1单个添加车位</button>
+	    <button class="layui-btn" type="button" id="batchChoice">2批量添加车位</button>
     </div>
     <br/><br/><br/>
     <div id="singleAdd">
